@@ -1,4 +1,4 @@
-# Car_Dataset_Analysis
+# Mint Classics Storage Optimization
 Analysis of A fictional company Mint Classics who deals in model cars and other vehicles. Mint Classics wants to close one of their storage facilities. So this analysis id is for finding patterns or trends to support this decision.
 From this analysis,  I observed that:
 
